@@ -1,4 +1,4 @@
-<a src="README_portuguese.md">Traduzir para português<a/>
+<a href="README_portuguese.md" target="_blank">Traduzir para português<a/> 
   
 # <img src="https://i1258.photobucket.com/albums/ii525/soemoticons/Pokemon%2002/004.gif" width="35" height="35"/> Pokedex
 ## ✨ Descrição 
