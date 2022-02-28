@@ -12,12 +12,12 @@
 2 - Faça a instalação padrão
 ```
 
-```bash
+```jsx
 3 - Execute o SWI-Prolog
 ```
 
 ### 4 - Carregando o arquivo .pl do projeto pokedex na IDE
-```bash
+```jsx
 4.1 - Execute o SWI-Prolog
 ```
 
@@ -32,5 +32,5 @@
 ## 🔨 Uso
 
 ```jsx
-Consulte no próprio arquivo .pl a sintaxe para simular as batalhas ou para fazer outras consultas.
+Consulte no próprio arquivo .pl a sintaxe para simular batalhas ou para fazer outras consultas.
 ```
