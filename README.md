@@ -4,7 +4,7 @@
 
 ## 📦 Instalação
 
-```bash
+```jsx
 1 - Baixe a IDE SWI-Prolog
 ```
 
