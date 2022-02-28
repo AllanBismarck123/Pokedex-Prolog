@@ -1,38 +1,34 @@
 <a href="README_portuguese.md" target="_blank">Traduzir para português<a/> 
   
 # <img src="https://i1258.photobucket.com/albums/ii525/soemoticons/Pokemon%2002/004.gif" width="35" height="35"/> Pokedex
-## ✨ Descrição 
-### O Projeto pokedex feito desenvolvido para a disciplina Lógica para Computação na UNIVASF, utiliza a linguagem prolog e permite fazer simulações de batalhas entre os pokemons cadastrados através de consultas.
+## ✨ Description
+### The pokedex project developed for the Logic for Computing discipline at UNIVASF, uses the prolog language and allows for simulations of battles between registered pokemons through queries.
 
-## 📦 Instalação
+## 📦 Installation
 
 ```jsx
-1 - Baixe a IDE SWI-Prolog
+1 - Download the SWI-Prolog IDE
 ```
 
 ```bash
-2 - Faça a instalação padrão
+2 - Do the default installation
 ```
 
 ```jsx
-3 - Execute o SWI-Prolog
+3 - Run SWI-Prolog
 ```
 
-### 4 - Carregando o arquivo .pl do projeto pokedex na IDE
+### 4 - Loading the pokedex project .pl file in the IDE
 ```jsx
-4.1 - Execute o SWI-Prolog
-```
-
-```jsx
-4.2 - Clique em File->Consult->Selecione o arquivo .pl
+4.1 - Click on File->Consult->Select the .pl file
 ```
 
 ```bash
-4.3 - Pronto, agora já pode ser utilizado.
+4.2 - Ready, now it can be used.
 ```
 
-## 🔨 Uso
+## 🔨 Use
 
 ```jsx
-Consulte no próprio arquivo .pl a sintaxe para simular batalhas ou para fazer outras consultas.
+Consult the .pl file for the syntax to simulate battles or to make other queries.
 ```
