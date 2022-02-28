@@ -5,27 +5,32 @@
 ## 📦 Instalação
 
 ```bash
-npm install antd
+1 - Baixe a IDE SWI-Prolog
 ```
 
 ```bash
-yarn add antd
+2 - Faça a instalação padrão
+```
+
+```bash
+3 - Execute o SWI-Prolog
+```
+
+### 4 - Carregando o arquivo .pl do projeto pokedex na IDE
+```bash
+4.1 - Execute o SWI-Prolog
+```
+
+```jsx
+4.2 - Clique em File->Consult->Selecione o arquivo .pl
+```
+
+```bash
+4.3 - Pronto, agora já pode ser utilizado.
 ```
 
 ## 🔨 Uso
 
 ```jsx
-import { Button, DatePicker } from 'antd';
-const App = () => (
-  <>
-    <Button type="primary">PRESS ME</Button>
-    <DatePicker />
-  </>
-);
-```
-
-Importe o estilo manualmente:
-
-```jsx
-import 'antd/dist/antd.css'; // ou 'antd/dist/antd.less'
+Consulte no próprio arquivo .pl a sintaxe para simular as batalhas ou para fazer outras consultas.
 ```
