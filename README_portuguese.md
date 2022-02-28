@@ -20,15 +20,11 @@
 
 ### 4 - Carregando o arquivo .pl do projeto pokedex na IDE
 ```jsx
-4.1 - Execute o SWI-Prolog
-```
-
-```jsx
-4.2 - Clique em File->Consult->Selecione o arquivo .pl
+4.1 - Clique em File->Consult->Selecione o arquivo .pl
 ```
 
 ```bash
-4.3 - Pronto, agora já pode ser utilizado.
+4.2 - Pronto, agora já pode ser utilizado.
 ```
 
 ## 🔨 Uso
